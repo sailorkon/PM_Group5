@@ -2,15 +2,22 @@
 Group work for AI in Production Engineering
 
 # Installation guide
+```bash
 pip install git
+```
+
 
 > navigate to empty folder e.g. "code" and run the following commands
->git config --global user.name “[firstname lastname]”
->git config --global user.email “[valid-email]”
->git clone https://github.com/johannes2moll/PM_Group5
->git branch [branch-name]
+```bash
+git config --global user.name “[firstname lastname]”
+git config --global user.email “[valid-email]”
+git clone https://github.com/johannes2moll/PM_Group5
+git branch [branch-name]
+```
 
 ># how to commit changes
->git add [file]
->git commit -m “[descriptive message]”
->git push [alias] [branch]
+```bash
+git add [file]
+git commit -m “[descriptive message]”
+git push [alias] [branch]
+```
